@@ -1,0 +1,11 @@
+body{
+    background-color: #e39ffe; 
+}
+.heading{
+    height: 50px;
+    font-size:1cm;
+    font-weight: bold;
+    border-style: double;
+    border-radius: 5cm;
+    color: #67032f;
+}
